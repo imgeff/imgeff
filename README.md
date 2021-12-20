@@ -1,7 +1,7 @@
 <h1 align="left">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Seja bem vindo ao meu Perfil!</h1>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=imgeff&color=000000" alt="profile views" /> </p>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/imgeff/ec9a15cd6594248ea6ceabcf0c6cf1d5/raw/20b5a835626cf8c211de79b08aad7d485a8ae0b9/githubcard.svg"/>
 <div align="left">
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=imgeff&color=000000" alt="profile views" /> </p>
+<img align="right" height="590em" width="350px" src="https://raw.githubusercontent.com/gist/imgeff/ec9a15cd6594248ea6ceabcf0c6cf1d5/raw/20b5a835626cf8c211de79b08aad7d485a8ae0b9/githubcard.svg"/>
   <a href="https://github.com/imgeff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgeff&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgeff&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
