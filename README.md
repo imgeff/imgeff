@@ -1,18 +1,43 @@
-<h1 align="left">Oii <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">! eu sou Gefferson Batista, Seja bem vindo ao meu Perfil!</h1>
+<h2 align="left">Seja bem vindo(a) ao meu Perfil!</h1>
+Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil e atualmente estudo <b>Desenvolvimento Web Full-stack na Trybe</b> 🚀. 
+
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+- 💚 Apaixonado por **desenvolver soluções**;
+- 📗 Estou sempre buscando **aprimorar meus conhecimento** para evoluir na minha carreira de desenvolvedor;
+- 🧑🏻‍💻 Estou estudando backend com **Node.js**;
+- 🌱 Já aprendi desenvolvimento front-end com **React**; 
+- 🎮 Meus hobbies geralmente estão relacionados a **jogos, esportes e programar**;
+- 📫 Por favor, envie um email para **geffersonsilvaaraujo.gs@gmail.com** para me encontrar.
+
+<h4>"Idéias, e somente idéias podem iluminar a escuridão."</h4> - <i>Ludwig von Mises</i>;
+
+<br />
 <div align="center">
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=imgeff&color=000000" alt="profile views" /> </p>
-<img align="right" height="590em" width="350px" src="https://raw.githubusercontent.com/gist/imgeff/ec9a15cd6594248ea6ceabcf0c6cf1d5/raw/20b5a835626cf8c211de79b08aad7d485a8ae0b9/githubcard.svg"/>
   <a href="https://github.com/imgeff">
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imgeff&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgeff&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-
+</br>
+<b >Linguagens e ferramentas:</b>
   <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Geff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Geff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Geff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Geff-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Geff-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Geff-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Geff-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Geff-Mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img align="center" alt="Geff-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Geff-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Geff-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+                                
 </div>
   
   ##
