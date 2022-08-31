@@ -1,4 +1,11 @@
-<h2 align="left">Seja bem vindo(a) ao meu Perfil!</h1>
+<h2 align="left">
+Seja bem vindo(a) ao meu Perfil!
+<div align="right">
+  <a href="https://www.linkedin.com/in/imgeff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:imgeff.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://batist-geff.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
+</h1>
 Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil e atualmente estudo <b>Desenvolvimento Web Full-stack na Trybe</b> 🚀. 
 
 **Meus interesses pessoais:**
@@ -51,12 +58,8 @@ Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil
   ##
  
   <div align="center" > 
-  <a href="https://www.instagram.com/batistgeff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:imgeff.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/imgeff" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 ![Snake animation](https://github.com/imgeff/imgeff/blob/output/github-contribution-grid-snake.svg)
 <br/>
 <br/>
- <a href="https://batist-geff.vercel.app" target="_blank">Meu Portfólio</a>
 </div>
