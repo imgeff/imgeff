@@ -6,16 +6,16 @@ Seja bem vindo(a) ao meu Perfil!
   <a href="https://batist-geff.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 </h1>
-Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil e atualmente estudo <b>Desenvolvimento Web Full-stack na Trybe</b> 🚀. 
+Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil e sou <b>Desenvolvedor Web Full-stack</b> 🚀. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 💚 Apaixonado por **desenvolver soluções**;
+- 💚 Amo ser **criativo** e **desenvolver soluções**;
 - 📗 Estou sempre buscando **aprimorar meus conhecimento** para evoluir na minha carreira de desenvolvedor;
-- 🧑🏻‍💻 Estou estudando **Python**;
-- 🌱 Já aprendi desenvolvimento front-end com **React.js** e desenvolvimento back-end com **Node.js** e **Express.js**; 
+- 🧑🏻‍💻 Atualmente estou tendo mais contato com **TypeScript, React.js, Angular, PHP, Laravel e MariaDB**;
+- 🌱 Tenho conhecimento nas linguagens: **JavaScript, Java, PHP, Python**; 
 - 🎮 Como hobbies gosto de **jogos, praticar esportes, programar e assitir uma série**;
 - 📫 Para me encontrar basta enviar um email para **imgeff.dev@gmail.com**.
 
@@ -52,7 +52,9 @@ Olá, me chamo <b>Gefferson Batista</b>, sou de Vitória da Conquista-BA, Brasil
   <img align="center" alt="Geff-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" alt="Geff-Sqlite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Geff-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
+  <img align="center" alt="Geff-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Geff-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Geff-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 </div>
   
   ##
